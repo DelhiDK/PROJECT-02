@@ -8,4 +8,5 @@
 ### 7. 🖼️ Screenshots / Demos.
 Show what the dashboard looks like.
 Example:
+
 SALES ANALYSIS-AMAZON PRODUCTS ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-02/blob/main/SALES%20ANALYSIS-AMAZON%20PRODUCTS.png)
