@@ -3,6 +3,7 @@
 Amazon Sales Analytics & Insights.
 ### 2. 🌟 Headline.
 Turning Complex Sales Data into Clear Trends, Category Performance, and Customer Intelligence.
+
 • **“Analytics & Insights”** makes it sound professional and complete, not just a dashboard but a decision‑making tool.
 
 • The headline highlights the transformation: raw data → clear trends, category breakdowns, and customer behavior insights.
