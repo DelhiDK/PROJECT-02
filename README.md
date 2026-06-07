@@ -75,4 +75,4 @@ Together, these sources form the backbone of the dashboard, ensuring accurate re
 **Show what the dashboard looks like.
 Example:**
 
-#### 🏷️SALES ANALYSIS-AMAZON PRODUCTS ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-02/blob/main/SALES%20ANALYSIS-AMAZON%20PRODUCTS.png)
+#### 🏷️SALES ANALYSIS-AMAZON PRODUCTS. ![Dashboard Preview](https://github.com/DelhiDK/PROJECT-02/blob/main/SALES%20ANALYSIS-AMAZON%20PRODUCTS.png)
