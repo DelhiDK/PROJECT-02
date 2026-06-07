@@ -44,6 +44,16 @@ This project provides a clear, data‑driven view of Amazon product sales. It hi
 
 • **REST APIs →** Real‑time integration with ERP, POS, and CRM systems.
 ### 5. 🏷️ Data Source.
+The project is built on structured datasets capturing **Sales, Inventory, Products, and Stores** information.
+• **Sales →** Transaction details including date, store, product, quantity, and revenue.
+
+• **Inventory →** Stock levels and alerts for low‑stock items.
+
+• **Products →** Attributes such as name, category, and unit price.
+
+• **Stores →** Location and region data, enabling role‑based access (RLS).
+
+Together, these sources form the backbone of the dashboard, ensuring accurate reporting of sales trends, category performance, and customer insights.
 **🔗Tap this link to open the Data source :** https://github.com/DelhiDK/PROJECT-02/blob/main/Project%2002_%20Data%20Source.xlsx
 ### 6. 🚀 Futures and Highlights.
 ### 7. 🖼️ Screenshots / Demos.
