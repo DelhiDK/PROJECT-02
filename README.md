@@ -54,8 +54,23 @@ The project is built on structured datasets capturing **Sales, Inventory, Produc
 • **Stores →** Location and region data, enabling role‑based access (RLS).
 
 Together, these sources form the backbone of the dashboard, ensuring accurate reporting of sales trends, category performance, and customer insights.
+
 **🔗Tap this link to open the Data source :** https://github.com/DelhiDK/PROJECT-02/blob/main/Project%2002_%20Data%20Source.xlsx
 ### 6. 🚀 Futures and Highlights.
+• **Comprehensive Sales Tracking →** Year‑to‑Date and Quarter‑to‑Date metrics with clear KPIs.
+
+• **Trend Analysis →** Monthly and weekly charts to identify seasonal peaks and growth patterns.
+
+• **Category Insights →** Breakdown of product categories showing contribution to overall revenue.
+
+• **Top Products Spotlight →** Quick view of best‑selling items and most‑reviewed products.
+
+• **Customer Behavior →** Review analytics highlighting customer engagement and preferences.
+
+• **Interactive Filters →** Dynamic selection by product category and quarter for tailored insights.
+
+• **Business Impact →** Enables managers to monitor performance, optimize inventory, and drive smarter decisions.
+
 ### 7. 🖼️ Screenshots / Demos.
 **Show what the dashboard looks like.
 Example:**
