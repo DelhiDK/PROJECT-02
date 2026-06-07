@@ -15,6 +15,34 @@ A professional Power BI dashboard that analyzes Amazon product sales, categories
 #### 🎯 Purpose.
 This project provides a clear, data‑driven view of Amazon product sales. It highlights year‑to‑date and quarter‑to‑date performance, category contributions, and top products by revenue and reviews. The dashboard helps identify sales trends, customer behavior, and growth opportunities for smarter business decisions.
 ### 4. ⚙️ Tech Stack.
+#### 📊 Visualization & Reporting.
+• **Power BI →** Interactive dashboards, KPIs, and trend analysis.
+
+• **Custom Visuals →** Line, bar, donut charts, and KPI cards.
+
+#### 🔄 Data Modeling & Transformation.
+• **Power Query →** ETL (Extract, Transform, Load) for cleaning and shaping data.
+
+• **DAX (Data Analysis Expressions) →** Advanced measures, KPIs, and calculations.
+
+#### 🗄️ Data Sources & Storage.
+• **SQL Server / MySQL →** Core transactional sales and product data.
+
+• **Excel / CSV →** Lightweight imports and prototyping datasets.
+
+• **Cloud Storage (Azure / OneDrive) →** Centralized access and collaboration.
+
+#### ☁️ Deployment & Collaboration.
+• **Power BI Service →** Cloud publishing, scheduled refresh, and secure sharing.
+
+• **GitHub →** Version control, documentation, and portfolio showcase.
+
+#### 🚀 Optional Enhancements.
+• **Python (Pandas, NumPy) →** Preprocessing, automation, and predictive analytics.
+
+• **Azure Data Factory →** Scalable pipelines for large datasets.
+
+• **REST APIs →** Real‑time integration with ERP, POS, and CRM systems.
 ### 5. 🏷️ Data Source.
 **🔗Tap this link to open the Data source :** https://github.com/DelhiDK/PROJECT-02/blob/main/Project%2002_%20Data%20Source.xlsx
 ### 6. 🚀 Futures and Highlights.
